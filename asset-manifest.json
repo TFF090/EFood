@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.269bc04a.css",
+    "main.js": "/static/js/main.bd2550e8.js",
+    "static/media/hamburgerushapturganqz.png": "/static/media/hamburgerushapturganqz.7508ff9203aa915283bf.png",
+    "static/media/pitsa2.png": "/static/media/pitsa2.38932200de126f04af91.png",
+    "static/media/dastapka.png": "/static/media/dastapka.d9e53f671933b49ac0f7.png",
+    "static/media/srlinon.png": "/static/media/srlinon.e794b0510590b3d7c165.png",
+    "static/media/qorahamburger.png": "/static/media/qorahamburger.c9afea71d540bafd4ddd.png",
+    "static/media/pitsa1.png": "/static/media/pitsa1.847aeed05a7e0c80849d.png",
+    "static/media/fri.png": "/static/media/fri.8d0256a5731efa03c621.png",
+    "static/media/hamburger.png": "/static/media/hamburger.035d73a8c8b37cedab01.png",
+    "static/media/tel3ta.png": "/static/media/tel3ta.d914c41730fdf559fbcf.png",
+    "static/media/matasikl.jpg": "/static/media/matasikl.8dd8a23dc367c5a7d8e7.jpg",
+    "static/media/burger1.png": "/static/media/burger1.e7f217b36d26008b2620.png",
+    "static/media/burger2.png": "/static/media/burger2.1a725f142eb2402ced84.png",
+    "static/media/Burger.png": "/static/media/Burger.3598afd859fac83ce454.png",
+    "static/media/EFood.svg": "/static/media/EFood.efafd0c7602d7457abd2815ff4e15c05.svg",
+    "static/media/blmiman2.svg": "/static/media/blmiman2.8f78cf1c97854d18676918803dddf55f.svg",
+    "index.html": "/index.html",
+    "static/media/blmiman.svg": "/static/media/blmiman.b7f3fc3c1a3bb637430cd6f69c3b0a74.svg",
+    "static/media/blmiman1.svg": "/static/media/blmiman1.fe79e04c0f13d9133da9974c98bbe98d.svg",
+    "main.269bc04a.css.map": "/static/css/main.269bc04a.css.map",
+    "main.bd2550e8.js.map": "/static/js/main.bd2550e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.269bc04a.css",
+    "static/js/main.bd2550e8.js"
+  ]
+}
